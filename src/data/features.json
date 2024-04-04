@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Docs",
+    "description": "Find in-depth information about Next.js features and API.",
+    "href": "https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app",
+    "icon": "->"
+  },
+  {
+    "title": "Learn",
+    "description": "Learn about Next.js in an interactive course with quizzes!",
+    "href": "https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app",
+    "icon": "->"
+  },
+  {
+    "title": "Templates",
+    "description": "Explore starter templates for Next.js.",
+    "href": "https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app",
+    "icon": "->"
+  },
+  {
+    "title": "Deploy",
+    "description": "Instantly deploy your Next.js site to a shareable URL with Vercel.",
+    "href": "https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app",
+    "icon": "->"
+  },
+  {
+    "title": "Examples",
+    "description": "Discover and clone examples of real-world applications built with Next.js.",
+    "href": "https://github.com/vercel/next.js/tree/canary/examples",
+    "icon": "->"
+  },
+  {
+    "title": "Analytics",
+    "description": "Leverage analytics to measure and improve your Next.js application's performance.",
+    "href": "https://vercel.com/analytics",
+    "icon": "->"
+  },
+  {
+    "title": "Integrations",
+    "description": "Enhance your Next.js project with a wide range of integrations.",
+    "href": "https://vercel.com/integrations",
+    "icon": "->"
+  },
+  {
+    "title": "Marketplace",
+    "description": "Explore plugins and integrations in the Vercel Marketplace to boost your Next.js application.",
+    "href": "https://vercel.com/marketplace",
+    "icon": "->"
+  }
+]
