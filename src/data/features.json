@@ -1,50 +1,62 @@
 [
   {
-    "title": "Docs",
-    "description": "Find in-depth information about Next.js features and API.",
-    "href": "https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app",
+    "title": "Chatbots and Conversational AI",
+    "description": "Explore our AI-driven chatbot technologies that enhance customer service automation and enable interactive storytelling or advising across various contexts.",
+    "href": "/ai-chatbots",
     "icon": "->"
   },
   {
-    "title": "Learn",
-    "description": "Learn about Next.js in an interactive course with quizzes!",
-    "href": "https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app",
+    "title": "Image Generation",
+    "description": "Discover how our AI can generate unique artworks and offer virtual try-on experiences, allowing users to see themselves with new outfits or makeup styles in real-time.",
+    "href": "/ai-image-generation",
     "icon": "->"
   },
   {
-    "title": "Templates",
-    "description": "Explore starter templates for Next.js.",
-    "href": "https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app",
+    "title": "Video Generation",
+    "description": "See how our AI technology creates dynamic educational content and promotional videos from user-provided texts and outlines, transforming how content is produced.",
+    "href": "/ai-video-generation",
     "icon": "->"
   },
   {
-    "title": "Deploy",
-    "description": "Instantly deploy your Next.js site to a shareable URL with Vercel.",
-    "href": "https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app",
+    "title": "Automation and Detection Systems",
+    "description": "Dive into our demos of AI in automation, including vehicle detection for smart city applications and advanced monitoring systems for security and industrial use.",
+    "href": "/ai-automation-detection",
     "icon": "->"
   },
   {
-    "title": "Examples",
-    "description": "Discover and clone examples of real-world applications built with Next.js.",
-    "href": "https://github.com/vercel/next.js/tree/canary/examples",
+    "title": "Technical UI/Backend Integration",
+    "description": "Explore how we integrate AI with user-friendly APIs and dynamic content generation systems, showcasing robust backend solutions paired with innovative front-end designs.",
+    "href": "/ai-technical-integration",
     "icon": "->"
   },
   {
-    "title": "Analytics",
-    "description": "Leverage analytics to measure and improve your Next.js application's performance.",
-    "href": "https://vercel.com/analytics",
+    "title": "Learning and Experimentation with AI Libraries",
+    "description": "Learn about AI through our interactive widgets and examples using Python libraries like TensorFlow, PyTorch, and Scikit-learn, perfect for newcomers and experienced developers alike.",
+    "href": "/ai-learning-experimentation",
     "icon": "->"
   },
   {
-    "title": "Integrations",
-    "description": "Enhance your Next.js project with a wide range of integrations.",
-    "href": "https://vercel.com/integrations",
+    "title": "Technical UI/Backend Integration",
+    "description": "Explore how we integrate AI with user-friendly APIs and dynamic content generation systems, showcasing robust backend solutions paired with innovative front-end designs.",
+    "href": "/ai-technical-integration",
     "icon": "->"
   },
   {
-    "title": "Marketplace",
-    "description": "Explore plugins and integrations in the Vercel Marketplace to boost your Next.js application.",
-    "href": "https://vercel.com/marketplace",
+    "title": "Learning and Experimentation with AI Libraries",
+    "description": "Learn about AI through our interactive widgets and examples using Python libraries like TensorFlow, PyTorch, and Scikit-learn, perfect for newcomers and experienced developers alike.",
+    "href": "/ai-learning-experimentation",
+    "icon": "->"
+  },
+  {
+    "title": "Technical UI/Backend Integration",
+    "description": "Explore how we integrate AI with user-friendly APIs and dynamic content generation systems, showcasing robust backend solutions paired with innovative front-end designs.",
+    "href": "/ai-technical-integration",
+    "icon": "->"
+  },
+  {
+    "title": "Learning and Experimentation with AI Libraries",
+    "description": "Learn about AI through our interactive widgets and examples using Python libraries like TensorFlow, PyTorch, and Scikit-learn, perfect for newcomers and experienced developers alike.",
+    "href": "/ai-learning-experimentation",
     "icon": "->"
   }
 ]
