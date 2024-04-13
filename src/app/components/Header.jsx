@@ -12,7 +12,7 @@ const Header = () => {
             className="flex items-center font-bold text-3xl hover:text-gray-400 dark:hover:text-gray-300 transition duration-150 ease-in-out"
           >
             <img
-              src="/logo-hd.png"
+              src="./logo-hd.png"
               alt="Logo"
               style={{ height: "84px", width: "auto" }}
             />
