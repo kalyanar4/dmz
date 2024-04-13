@@ -1,4 +1,5 @@
 import Link from "next/link";
+import "bootstrap-icons/font/bootstrap-icons.css";
 
 const Footer = () => {
   return (
